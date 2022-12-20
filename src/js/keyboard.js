@@ -11,12 +11,14 @@ export class Keyboard {
   }
 
   #addEvent() {
+    // 다크모드 기능
     this.#switchEl.addEventListener("change", (e) => {
       document.documentElement.setAttribute(
         "theme",
         e.target.checked ? "dark-mode" : ""
       );
     });
+    // 폰트변경 기능
     this.#fontSelectEl.addEventListener("change", (e) => {
       document.body.style.fontFamily = e.target.value;
     });
