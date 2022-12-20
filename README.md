@@ -6,4 +6,6 @@
 - font 변경하는 기능
 - input창에 작성 시 키보드가 눌리는 기능 
 
-<img width="839" alt="스크린샷 2022-12-20 오후 6 34 40" src="https://user-images.githubusercontent.com/105038512/208633623-e5e081de-9f77-4d9f-bb42-2d81a438ce42.png">
+https://user-images.githubusercontent.com/105038512/208644084-2c1a8b58-4e7c-4e23-82df-faf0471ec056.mov
+
+
