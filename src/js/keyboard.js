@@ -1,4 +1,3 @@
-// 클래스 함수
 export class Keyboard {
   #switchEl; //#를 붙인 값은 class 외부에서 다른 값을 덮어씌울 수 없게 함
   #fontSelectEl;
